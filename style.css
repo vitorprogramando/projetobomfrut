@@ -46,10 +46,12 @@ nav .menu-btn i{
 	color: #fff;
 	cursor: pointer;
 	display: none;
+
 }
 @media (max-width: 920px) {
 	nav .menu-btn i{
 		display:block;
+		
 	}
 	nav ul{
 		position: fixed;
